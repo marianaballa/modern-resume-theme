@@ -1,14 +1,14 @@
 # Education Template
-- name: Institution name
-  dates: Date Range (eg. 2016 - 2019)
+- name: Faculty of Natural Sciences, University of Tirana
+  dates: 2014 - 2018
   qualification: Bachelor
   quote: >
     Short institution or course description (optional)
   description: | # this will include new lines to allow paragraphs
     Description of qualification
    
-- name: Institution name
-  dates: Date Range (eg. 2016 - 2019)
+- name: Faculty of Natural Sciences, University of Tirana
+  dates: 2018-2019
   qualification: Masters
   quote: >
     Short institution or course description (optional)
