@@ -3,11 +3,11 @@ repository: Git repository where your resume will be hosted, only required if yo
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Personal info
-name: Your Name
-title: Your job title
-email: Your email (optional)
-phone: Your phone number (optional)
-website: Your website (eg. https://google.com)(optional)
+name: Mariana Balla
+title: Community Manager
+email: marianaballa@pm.me
+phone: +355 699 355 903
+website: https://marianaballa.com
 
 # Social links
 twitter_username: jekyllrb
