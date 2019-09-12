@@ -6,7 +6,6 @@
 [View Demo](https://sproogen.github.io/modern-resume-theme/)
 
 ![img](screenshot.png)
-![img](Mariana Balla (square).JPG)
 
 *Thank you for checking out my resume theme / template. If you have any feedback or suggestions for things I can add please let me know by either by raising an [issue](https://github.com/sproogen/modern-resume-theme/issues/new/choose) or feel free to send me an email to [sprog31@gmail.com](mailto:sprog31@gmail.com), I'm always happy to help.*
 
