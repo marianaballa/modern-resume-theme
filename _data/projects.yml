@@ -1,11 +1,12 @@
 # Project template
-- name: Project name
-  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+- name: Open Labs Hackerspace
+  link: https://openlabs.cc/en/
   quote: >
-    Short overview of the project (optional)
+    Open Labs is a community which promotes free and open source technologies, open data, open technological standards, online privacy and powering public domain and alternative licenses of creative works such as Creative Commons.
   description: | # this will include new lines to allow paragraphs
-    Description about the work on/with the project
+    Since 2016 I am a members of Open Labs Hackerspace. At Open Labs I have been involed with the organisation of several open source related events (from small meet ups to larger conferences). At the Open Labs community I have learnt a lot regarding the open source philosophy, online privacy and the importance of open data and open govermental startegies. All the above, both in theory and in practice. 
+    
+    Starting from December 2017 I am a board member of the community. Board members are the legal representatices of the community, which legally is a Non Profit Organisation (NGO). As a board member, I have learnt a lot on how organisations are run, how to respect the frame regarding NGO's and how to communicate more effectivelly with people.
 
 - name: Project name
   link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
