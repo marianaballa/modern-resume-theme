@@ -8,11 +8,11 @@
     
     Starting from December 2017 I am a board member of the community. Board members are the legal representatices of the community, which legally is a Non Profit Organisation (NGO). As a board member, I have learnt a lot on how organisations are run, how to respect the frame regarding NGO's and how to communicate more effectivelly with people.
 
-- name: Project name
-  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+- name: The Fedora Project
+  link: https://getfedora.org/
+  #github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
   quote: >
-    Short overview of the project (optional)
+    The Fedora Project is a project sponsored by Red Hat primarily to co-ordinate the development of the Linux-based Fedora operating system, operating with the vision that the project "creates a world where free culture is welcoming and widespread, collaboration is commonplace, and people control their content and devices.
   description: | # this will include new lines to allow paragraphs
     Description about the work on/with the project
     
