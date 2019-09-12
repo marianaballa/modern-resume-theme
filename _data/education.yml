@@ -2,8 +2,7 @@
 - name: Faculty of Natural Sciences, University of Tirana
   dates: 2014 - 2018
   qualification: Bachelor
-  quote: >
-    The Faculty of Natural Sciences (FNS) is the leading center in Albania for the preparation of top specialists in computing, mathematics, physics, chemistry, industrial chemistry, biology, biotechnology.
+  quote: >The Faculty of Natural Sciences (FNS) is the leading center in Albania for the preparation of top specialists in computing, mathematics, physics, chemistry, industrial chemistry, biology, biotechnology.Web: http://www.fshn.edu.al/
   description: | # this will include new lines to allow paragraphs
     Description of qualification
    
@@ -11,6 +10,6 @@
   dates: 2018-2019
   qualification: Masters
   quote: >
-    The Faculty of Natural Sciences (FNS) is the leading center in Albania for the preparation of top specialists in computing, mathematics, physics, chemistry, industrial chemistry, biology, biotechnology.
+    The Faculty of Natural Sciences (FNS) is the leading center in Albania for the preparation of top specialists in computing, mathematics, physics, chemistry, industrial chemistry, biology, biotechnology. Web: http://www.fshn.edu.al/
   description: | # this will include new lines to allow paragraphs
     Description of qualification
